@@ -1,0 +1,12 @@
+requests==2.21.0
+
+
+
+# yelp_apikey = set_key_here
+
+# foursquare_client_id = set_key_here
+# foursquare_client_secret = set_key_here
+
+# facebook_access_token = set_key_here
+
+
